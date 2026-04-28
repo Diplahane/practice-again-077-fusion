@@ -1,2 +1,5 @@
 hi i am from github remote
 now chcek build periodically
+
+
+now check poll scm
