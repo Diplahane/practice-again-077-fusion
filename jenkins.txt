@@ -10,3 +10,5 @@ day 2 webhook check
 check 1
 
 cehck final
+
+now chcek chain connection 
